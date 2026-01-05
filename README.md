@@ -1,23 +1,17 @@
-# 🚀 LeetCode Mastery 2026: The Road to Top 1% 
+# 🚀 LeetCode Mastery 2026: The Road to 600 🎯
 
-Welcome to my DSA and ML journey! This repository is a live documentation of my technical growth, consistency, and problem-solving skills as I prepare for roles at top-tier tech companies.
-
----
-
-## 📌 Mission Statement
-"To master 500+ Data Structures & Algorithms problems and build a solid foundation in Machine Learning by the end of 2026."
+Welcome to my DSA journey! I am documenting my daily progress as I tackle 600+ problems this year to build a solid foundation in problem-solving and algorithmic thinking.
 
 ---
 
-## 📊 My Progress at a Glance
-
+## 📊 Progress Dashboard
 | Category | Total Solved | Status |
 | :--- | :---: | :--- |
-| **Arrays & Hashing** | 5 | 🟢 Active |
-| **Two Pointers** | 6 | 🟢 Active |
-| **Sliding Window** | 1 | 🟡 In-Progress |
+| **Arrays & Hashing** | 6 | 🟢 Active |
+| **Two Pointers** | 7 | 🟢 Active |
+| **Sliding Window** | 2 | 🟢 Active |
 | **Math & Logic** | 2 | 🟢 Active |
-| **Linked Lists** | 0 | ⚪ Upcoming |
+| **Current Goal Progress** | **17 / 600** | **2.8% Completed** |
 
 ---
 
@@ -31,28 +25,27 @@ Welcome to my DSA and ML journey! This repository is a live documentation of my 
 
 ---
 
-## 📝 Problem Log (Jan 2026)
+## 📝 Recent Problem Log (Week 2 Start)
 
-| S.No | Date | Problem Name | Difficulty | Topic | Solution |
+| S.No | Date | Topic | Problem Name | Difficulty | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 04 Jan | Two Sum | Easy | Hash Map | [Code](./ARRAYS_AND_HASHING/TWO_SUM.py) |
-| 2 | 04 Jan | Valid Palindrome | Easy | Two Pointer | [Code](./TWO_POINTER/VALID_PALINDROME.py) |
-| 3 | 04 Jan | Best Time to Buy & Sell Stock | Easy | Sliding Window | [Code](./SLIDING_WINDOW/BEST_TIME_TO_BUY.py) |
-| 4 | 04 Jan | Palindrome Number | Easy | Math | [Code](./MATH_LOGIC/PALINDROME_NUMBER.py) |
+| 17 | 05 Jan | Sliding Window | Longest Substring Without Repeating Characters | Medium | [Code](./SLIDING_WINDOW/LONGEST_SUBSTRING_WITHOUT_REPEATING.py) |
+| 16 | 05 Jan | Two Pointers | 3 Sum | Medium | [Code](./TWO_POINTER/3_SUM.py) |
+| 15 | 05 Jan | Arrays | Valid Anagram | Easy | [Code](./ARRAYS_AND_HASHING/VALID_ANAGRAM.py) |
+| 1-14 | Jan | Various | Initial 14 Problems (Basics) | Mixed | [Check Folders](./) |
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 - **Language:** Python 🐍
-- **Version Control:** Git & GitHub
 - **Platform:** LeetCode
-- **IDE:** VS Code / PyCharm
+- **Version Control:** Git & GitHub
 
 ---
 
 ## 🌟 Connect with Me
 - **LinkedIn:** www.linkedin.com/in/vansh-shan-a23407276
-- **LeetCode:** (https://leetcode.com/u/zet03UhRIH/)
+- **LeetCode:** https://leetcode.com/u/zet03UhRlH/
 
 ---
-*Last updated: January 4, 2026*
+*Last updated: January 5, 2026*
