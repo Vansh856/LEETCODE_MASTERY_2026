@@ -1,17 +1,17 @@
 # 🚀 LeetCode Mastery 2026: The Road to 600 🎯
 
-Welcome to my DSA journey! I am documenting my daily progress as I tackle 600+ problems this year to build a solid foundation in problem-solving and algorithmic thinking.
+Welcome to my DSA & ML journey! I am documenting my daily progress as I tackle 600+ problems this year to build a solid foundation in problem-solving, algorithmic thinking, and Machine Learning.
 
 ---
 
 ## 📊 Progress Dashboard
 | Category | Total Solved | Status |
 | :--- | :---: | :--- |
-| **Arrays & Hashing** | 6 | 🟢 Active |
+| **Arrays & Hashing** | 7 | 🟢 Active |
 | **Two Pointers** | 7 | 🟢 Active |
 | **Sliding Window** | 2 | 🟢 Active |
 | **Math & Logic** | 2 | 🟢 Active |
-| **Current Goal Progress** | **17 / 600** | **2.8% Completed** |
+| **Current Goal Progress** | **18 / 600** | **3.0% Completed** |
 
 ---
 
@@ -25,10 +25,11 @@ Welcome to my DSA journey! I am documenting my daily progress as I tackle 600+ p
 
 ---
 
-## 📝 Recent Problem Log (Week 2 Start)
+## 📝 Recent Problem Log (Week 2)
 
 | S.No | Date | Topic | Problem Name | Difficulty | Solution |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| 18 | 06 Jan | Arrays | Majority Element | Easy | [Code](./ARRAYS_AND_HASHING/MAJORITY_ELEMENT.py) |
 | 17 | 05 Jan | Sliding Window | Longest Substring Without Repeating Characters | Medium | [Code](./SLIDING_WINDOW/LONGEST_SUBSTRING_WITHOUT_REPEATING.py) |
 | 16 | 05 Jan | Two Pointers | 3 Sum | Medium | [Code](./TWO_POINTER/3_SUM.py) |
 | 15 | 05 Jan | Arrays | Valid Anagram | Easy | [Code](./ARRAYS_AND_HASHING/VALID_ANAGRAM.py) |
@@ -36,16 +37,17 @@ Welcome to my DSA journey! I am documenting my daily progress as I tackle 600+ p
 
 ---
 
-## 🛠️ Tech Stack
-- **Language:** Python 🐍
-- **Platform:** LeetCode
+## 🛠️ Tech Stack & Learning
+- **Languages:** Python 🐍
+- **Libraries:** NumPy, Pandas (Learning Phase)
+- **Concepts:** Data Manipulation, Supervised Learning
 - **Version Control:** Git & GitHub
 
 ---
 
 ## 🌟 Connect with Me
-- **LinkedIn:** www.linkedin.com/in/vansh-shan-a23407276
+- **LinkedIn:** [[Insert Your Profile Link]](https://www.linkedin.com/in/vansh-shan-a23407276/)
 - **LeetCode:** https://leetcode.com/u/zet03UhRlH/
 
 ---
-*Last updated: January 5, 2026*
+*Last updated: January 6, 2026*
