@@ -50,4 +50,4 @@ Welcome to my DSA & ML journey! I am documenting my daily progress as I tackle 6
 - **LeetCode:** https://leetcode.com/u/zet03UhRlH/
 
 ---
-*Last updated: January 6, 2026*
+*Last updated: January 7, 2026*
