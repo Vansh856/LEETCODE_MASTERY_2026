@@ -1,53 +1,54 @@
-# 🚀 LeetCode Mastery 2026: The Road to 600 🎯
+# 🚀 Mission SDE 2026: 600 DSA Challenge
 
-Welcome to my DSA & ML journey! I am documenting my daily progress as I tackle 600+ problems this year to build a solid foundation in problem-solving, algorithmic thinking, and Machine Learning.
+### "Excuses don't build empires. Execution does."
+
+Welcome to my journey of transforming from an average student to a **Top 1% Software Engineer**. This repository is a record of my struggle, logic, and consistency. 
 
 ---
 
-## 📊 Progress Dashboard
-| Category | Total Solved | Status |
-| :--- | :---: | :--- |
-| **Arrays & Hashing** | 7 | 🟢 Active |
-| **Two Pointers** | 7 | 🟢 Active |
-| **Sliding Window** | 2 | 🟢 Active |
-| **Math & Logic** | 2 | 🟢 Active |
-| **Current Goal Progress** | **18 / 600** | **3.0% Completed** |
+## 📈 The Goal
+- **Target:** 600 Quality Problems (Focused on Medium & Hard).
+- **Daily Discipline:** Minimum 2-3 Problems.
+- **Current Phase:** Foundations (Sliding Window, Two Pointers, Hashing).
+- **Secondary Goals:** SQL Mastery & Machine Learning Projects.
 
 ---
 
 ## 📂 Repository Structure
+I follow a topic-wise organization to ensure deep conceptual understanding:
 
-- [ARRAYS_AND_HASHING](./ARRAYS_AND_HASHING/): Frequency counting, Maps, and Sets.
-- [TWO_POINTER](./TWO_POINTER/): Optimized space solutions using two-pointer techniques.
-- [SLIDING_WINDOW](./SLIDING_WINDOW/): Subarray and substring problems.
-- [STRING_MANIPULATION](./STRING_MANIPULATION/): Pattern matching and string parsing.
-- [MATH_LOGIC](./MATH_LOGIC/): Pure logic and mathematical puzzles.
-
----
-
-## 📝 Recent Problem Log (Week 2)
-
-| S.No | Date | Topic | Problem Name | Difficulty | Solution |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 18 | 06 Jan | Arrays | Majority Element | Easy | [Code](./ARRAYS_AND_HASHING/MAJORITY_ELEMENT.py) |
-| 17 | 05 Jan | Sliding Window | Longest Substring Without Repeating Characters | Medium | [Code](./SLIDING_WINDOW/LONGEST_SUBSTRING_WITHOUT_REPEATING.py) |
-| 16 | 05 Jan | Two Pointers | 3 Sum | Medium | [Code](./TWO_POINTER/3_SUM.py) |
-| 15 | 05 Jan | Arrays | Valid Anagram | Easy | [Code](./ARRAYS_AND_HASHING/VALID_ANAGRAM.py) |
-| 1-14 | Jan | Various | Initial 14 Problems (Basics) | Mixed | [Check Folders](./) |
+| Folder | Topics Covered | Status |
+| :--- | :--- | :--- |
+| `01_Arrays_&_Hashing` | Valid Anagram, Group Anagrams, Two Sum | In Progress |
+| `02_Two_Pointers` | Valid Palindrome, 3Sum | Pending |
+| `03_Sliding_Window` | Longest Substring, Character Replacement | **Active** |
+| `04_Stack` | Valid Parentheses, Min Stack | Upcoming |
 
 ---
 
-## 🛠️ Tech Stack & Learning
-- **Languages:** Python 🐍
-- **Libraries:** NumPy, Pandas (Learning Phase)
-- **Concepts:** Data Manipulation, Supervised Learning
-- **Version Control:** Git & GitHub
+## 🛠️ Problem Log (January 2026)
+
+| Date | Problem | Difficulty | Key Concept | Solution |
+| :--- | :--- | :--- | :--- | :--- |
+| Jan 07 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | HashMap / Sorting | [Link](./Sliding-Window/group_anagrams.py) |
+| Jan 08 | [Longest Substring...](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Sliding Window (Variable) | [Link](./Sliding-Window/longest_substring.py) |
+| Jan 08 | [Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Freq Map + Sliding Window | [Link](./Sliding-Window/character_replacement.py) |
 
 ---
 
-## 🌟 Connect with Me
-- **LinkedIn:** [[Insert Your Profile Link]](https://www.linkedin.com/in/vansh-shan-a23407276/)
-- **LeetCode:** https://leetcode.com/u/zet03UhRlH/
+## 🛠️ Tech Stack & Skills
+- **Language:** Python 🐍
+- **Database:** SQL (Window Functions, CTEs)
+- **Specialization:** Machine Learning Fundamentals
+- **Environment:** VS Code, LeetCode
 
 ---
-*Last updated: January 7, 2026*
+
+## 🧠 The Warrior Mindset
+- **5:00 AM Starts:** Winning the day before others wake up.
+- **No Hint Policy:** Minimum 45-60 mins of struggle before looking at a solution.
+- **Brutal Documentation:** If I can't explain the logic, I haven't solved the problem.
+
+---
+
+"Every commit is a step away from mediocrity."
