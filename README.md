@@ -52,3 +52,4 @@ I follow a topic-wise organization to ensure deep conceptual understanding:
 ---
 
 "Every commit is a step away from mediocrity."
+Jan 9: Recovery day due to health, reviewed Sliding Window Maximum logic.
