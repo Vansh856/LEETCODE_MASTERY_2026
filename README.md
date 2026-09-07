@@ -63,6 +63,7 @@ The codebase is modularized based on algorithmic concepts:
 
 ## 👑 Current Badges & Achievements
 * 🏅 **50 Days Badge 2026** (LeetCode Official)
+* 🏅 **100 Days Badge 2026** (LeetCode Official)
 * 🚀 **Silver Tier Hub** (Next target: 100 problems)
 
 ---
