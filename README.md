@@ -9,10 +9,10 @@
 
 | Metric | Current Status | Target | Progress |
 | :--- | :---: | :---: | :---: |
-| **Total Problems Solved** | **83** | 600 | `[██░░░░░░░░░░░░░░░] 13.8%` |
+| **Total Problems Solved** | **92** | 600 | `[███░░░░░░░░░░░░░░░] 15.3%` |
 | **Easy Problems** | **40** | — | — |
-| **Medium Problems** | **38** | — | — |
-| **Hard Problems** | **5** | — | — |
+| **Medium Problems** | **45** | — | — |
+| **Hard Problems** | **7** | — | — |
 | **Total Active Days** | **91 Days** | 365 | `[███░░░░░░░░░░░░░░] 24.9%` |
 | **Maximum Streak** | **23 Days** | — | 🔥 *Elite Consistency* |
 | **LeetCode Rank** | **1,837,548** | Top 10k | 📈 *Climbing Rapidly* |
@@ -22,17 +22,18 @@
 ## 📂 Repository Structure
 The codebase is modularized based on algorithmic concepts:
 
-| Folder | Topics Covered | Status |
-| :--- | :--- | :--- |
-| **01_ARRAYS_AND_HASHING** | Subarray Sums, Prefix/Suffix Optimizations, Hashing Mechanics | ✅ Active |
-| **02_BINARY_SERCH** | Rotated Search, Bound Adjustments, Divide & Conquer | 📈 In Progress |
-| **03_TWO_POINTER** | 3Sum, Two-Pointer Area Maximization, Greedy Reachability | ✅ Active |
-| **04_SLIDING_WINDOW** | Variable/Fixed Window Substrings, Subarrays | ✅ Active |
-| **05_LINKEDLIST** | Reversals, Fast & Slow Pointers, Cycle Detection | 🛠️ In Progress |
-| **06_STACK_AND_QUEUE** | Monotonic Stack, Queue Design Patterns | ✅ Active |
-| **07_STRING_MANUPULATION** | Conditional Parsers, String Tokenization, Sunday/Horspool | ✅ Active |
-| **08_TREES** | DFS/BFS Traversals, Postorder Math, BST Invariant, Merkle Hashes | 🌲 **Newly Deployed** |
-| **09_ML_Fundamentals** | Vectorized Math (NumPy), Custom Regression Implementations | 📈 In Progress |
+| Folder | Problem Count | Topics Covered | Status |
+| :--- | :---: | :--- | :--- |
+| **ARRAYS_AND_HASHING** | 31 | Subarray Sums, Prefix/Suffix Optimizations, Hashing Mechanics | ✅ Active |
+| **BINARY_SERCH** | 10 | Rotated Search, Bound Adjustments, Divide & Conquer | ✅ Active |
+| **TWO_POINTER** | 12 | 3Sum, Two-Pointer Area Maximization, Greedy Reachability | ✅ Active |
+| **SLIDING_WINDOW** | 4 | Variable/Fixed Window Substrings, Subarrays | ✅ Active |
+| **LINKEDLIST** | 9 | Reversals, Fast & Slow Pointers, Cycle Detection | ✅ Active |
+| **STACK_AND_QUEUE** | 6 | Monotonic Stack, Queue Design Patterns | ✅ Active |
+| **STRING_MANUPULATION** | 6 | Conditional Parsers, String Tokenization, Sunday/Horspool | ✅ Active |
+| **TREE** | 14 | DFS/BFS Traversals, Postorder Math, BST Invariant, Merkle Hashes | ✅ Active |
+
+**Total: 92 Problems Solved**
 
 ---
 
@@ -65,7 +66,7 @@ The codebase is modularized based on algorithmic concepts:
 * 🏅 **50 Days Badge 2026** (LeetCode Official)
 * 🏅 **102 Days Badge 2026** (LeetCode Official)
 * 🚀 **Silver Tier Hub** (Next target: 100 problems)
-* 🏅 **100 Problems solved
+* � **92 Problems Solved** (15.3% progress toward 600)
 
 ---
 **Vansh Shan** | Engineering Student @ KIT Kanpur | Aspiring SDE  
