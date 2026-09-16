@@ -9,7 +9,7 @@
 
 | Metric | Current Status | Target | Progress |
 | :--- | :---: | :---: | :---: |
-| **Total Problems Solved** | **92** | 600 | `[███░░░░░░░░░░░░░░░] 15.3%` |
+| **Total Problems Solved** | **93** | 600 | `[███░░░░░░░░░░░░░░░] 15.5%` |
 | **Easy Problems** | **40** | — | — |
 | **Medium Problems** | **45** | — | — |
 | **Hard Problems** | **7** | — | — |
@@ -24,7 +24,7 @@ The codebase is modularized based on algorithmic concepts:
 
 | Folder | Problem Count | Topics Covered | Status |
 | :--- | :---: | :--- | :--- |
-| **ARRAYS_AND_HASHING** | 31 | Subarray Sums, Prefix/Suffix Optimizations, Hashing Mechanics | ✅ Active |
+| **ARRAYS_AND_HASHING** | 32 | Subarray Sums, Prefix/Suffix Optimizations, Hashing Mechanics | ✅ Active |
 | **BINARY_SERCH** | 10 | Rotated Search, Bound Adjustments, Divide & Conquer | ✅ Active |
 | **TWO_POINTER** | 12 | 3Sum, Two-Pointer Area Maximization, Greedy Reachability | ✅ Active |
 | **SLIDING_WINDOW** | 4 | Variable/Fixed Window Substrings, Subarrays | ✅ Active |
@@ -33,7 +33,7 @@ The codebase is modularized based on algorithmic concepts:
 | **STRING_MANUPULATION** | 6 | Conditional Parsers, String Tokenization, Sunday/Horspool | ✅ Active |
 | **TREE** | 14 | DFS/BFS Traversals, Postorder Math, BST Invariant, Merkle Hashes | ✅ Active |
 
-**Total: 92 Problems Solved**
+**Total: 93 Problems Solved**
 
 ---
 
@@ -66,7 +66,7 @@ The codebase is modularized based on algorithmic concepts:
 * 🏅 **50 Days Badge 2026** (LeetCode Official)
 * 🏅 **102 Days Badge 2026** (LeetCode Official)
 * 🚀 **Silver Tier Hub** (Next target: 100 problems)
-* � **92 Problems Solved** (15.3% progress toward 600)
+* 🏆 **93 Problems Solved** (15.5% progress toward 600)
 
 ---
 **Vansh Shan** | Engineering Student @ KIT Kanpur | Aspiring SDE  
